@@ -5,7 +5,10 @@ Ce projet constitue une application web conçue avec JavaServer Pages (JSP) et o
 
 # Operations et pages realisees
 Hello Word!
-![image](https://github.com/WafaaK/TP-JSP/assets/147450674/d754b50e-f40f-4127-963a-58780c68c35f)
+![image](https://github.com/WafaaK/TP-JSP/assets/147450674/b9e0ecd3-2f26-4b49-ab06-ee9eb8ac51ca)
+![image](https://github.com/WafaaK/TP-JSP/assets/147450674/8e562059-a20d-47f2-ab19-e9d497490195)
+![image](https://github.com/WafaaK/TP-JSP/assets/147450674/eef787b6-06d4-4683-8c0d-65c881652506)
+
 La page web:
 ![image](https://github.com/WafaaK/TP-JSP/assets/147450674/524e155e-5714-4f8e-b866-a7f7b74d1456)
 ![image](https://github.com/WafaaK/TP-JSP/assets/147450674/8fc5994e-922b-4ee2-ac40-8a39a80f48ea)
