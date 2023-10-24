@@ -1,4 +1,9 @@
 # TP-JSP
+# Application de gestion de machine
+Ce projet constitue une application web conçue avec JavaServer Pages (JSP) et opérationnelle sur le serveur GlassFish. Son objectif central est de rationaliser la gestion des machines. Grâce à cette application, les utilisateurs ont la possibilité d'accomplir une variété d'actions, notamment la création de nouvelles machines, l'affichage de la liste des machines actuellement en service, la mise à jour des données relatives à ces machines, et enfin, leur suppression.
+
+
+# Operations et pages realisees
 Hello Word!
 ![image](https://github.com/WafaaK/TP-JSP/assets/147450674/d754b50e-f40f-4127-963a-58780c68c35f)
 La page web:
